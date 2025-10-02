@@ -1,4 +1,4 @@
-# Zabbix Labs Portfolio
+# Zabbix Labs / Proxy + Hosts Remotos
 
 Repositório público para documentar meus laboratórios de *Monitoring & Observability* com **Zabbix** (Proxy, Agent, TLS, automação e boas práticas).  
 Este projeto serve como **portfólio técnico** e guia reproduzível.
