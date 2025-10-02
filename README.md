@@ -24,10 +24,10 @@ zabbix-labs-portfolio/
 - **Rodar script** (ex.: instalar Proxy): `sudo bash scripts/install_zabbix_proxy.sh`
 
 ## Roadmap
-- [x] LAB-03 – Zabbix Proxy + Agent + TLS
-- [ ] LAB-XX – Discovery + Templates
-- [ ] LAB-XX – Grafana + Datasource Zabbix
-- [ ] LAB-XX – Alerting (Email, Webhook)
+- [x] LAB-01 – Zabbix Proxy + Agent + TLS
+- [ ] LAB-02 – Discovery + Templates
+- [ ] LAB-03 – Grafana + Datasource Zabbix
+- [ ] LAB-04 – Alerting (Email, Webhook)
 
 ## Diagrama (Mermaid)
 ```mermaid
