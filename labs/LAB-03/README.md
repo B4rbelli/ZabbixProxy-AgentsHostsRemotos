@@ -3,7 +3,7 @@
 > Objetivo: instalar e configurar **Zabbix Proxy** e **Zabbix Agent** para monitoramento distribuído com comunicação segura (TLS).
 
 ## Ambiente
-- 1x Zabbix Server (pronto do LAB-01)
+- 1x Zabbix Server
 - 1x VM para **Proxy** (ex.: Debian/Ubuntu/Kali)
 - 1x VM para **Agente** (Linux de teste; Windows opcional)
 
