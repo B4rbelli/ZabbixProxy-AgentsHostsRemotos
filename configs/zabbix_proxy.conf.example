@@ -1,0 +1,10 @@
+# zabbix_proxy.conf.example
+Server=<IP_Zabbix_Server>
+Hostname=Proxy-Remoto
+DBName=zabbix_proxy
+DBUser=zbxproxy
+DBPassword=SenhaProxy!
+TLSConnect=psk
+TLSAccept=psk
+TLSPSKIdentity=proxy-psk-id
+TLSPSKFile=/etc/zabbix/psk.key

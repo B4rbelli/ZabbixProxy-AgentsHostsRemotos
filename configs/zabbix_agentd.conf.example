@@ -1,0 +1,7 @@
+# zabbix_agentd.conf.example
+Server=<IP_Zabbix_Proxy>
+Hostname=Agente-Linux
+TLSConnect=psk
+TLSAccept=psk
+TLSPSKIdentity=agent-psk-id
+TLSPSKFile=/etc/zabbix/psk.key
