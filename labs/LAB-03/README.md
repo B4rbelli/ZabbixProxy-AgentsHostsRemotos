@@ -86,9 +86,6 @@
 - **Cadastrar Hosts** apontando para o Proxy.
 - Validar *Latest data* e *Availability*.
 
-## Evidências
-- **Topologia**: `docs/img/topologia-lab03.png` (adicione seu desenho).
-- **Prints**: `labs/LAB-03/evidence/` (status dos serviços, ping TLS/PSK, frontend).
 
 ## Troubleshooting
 - Logs:
