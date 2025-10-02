@@ -22,7 +22,6 @@ zabbix-labs-portfolio/
 ## Como usar
 - **Clonar**: `git clone https://github.com/B4rbelli/ZabbixProxy-AgentsHostsRemotos.git`
 - **Rodar script** (ex.: instalar Proxy): `sudo bash scripts/install_zabbix_proxy.sh`
-- **Publicar evidências**: adicione prints em `labs/LAB-03/evidence/` e referencie no `README` do lab.
 
 ## Roadmap
 - [x] LAB-03 – Zabbix Proxy + Agent + TLS
