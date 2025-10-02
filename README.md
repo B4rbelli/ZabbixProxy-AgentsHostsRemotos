@@ -20,7 +20,7 @@ zabbix-labs-portfolio/
 └─ CONTRIBUTING.md
 ```
 ## Como usar
-- **Clonar**: `git clone https://github.com/<seu-usuario>/zabbix-labs-portfolio.git`
+- **Clonar**: `git clone https://github.com/B4rbelli/ZabbixProxy-AgentsHostsRemotos.git`
 - **Rodar script** (ex.: instalar Proxy): `sudo bash scripts/install_zabbix_proxy.sh`
 - **Publicar evidências**: adicione prints em `labs/LAB-03/evidence/` e referencie no `README` do lab.
 
