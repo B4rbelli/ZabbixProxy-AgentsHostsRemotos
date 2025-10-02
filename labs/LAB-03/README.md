@@ -1,4 +1,4 @@
-# LAB-03 — Zabbix Proxy & Agent (com TLS)
+# LAB — Zabbix Proxy & Agent (com TLS)
 
 > Objetivo: instalar e configurar **Zabbix Proxy** e **Zabbix Agent** para monitoramento distribuído com comunicação segura (TLS).
 
