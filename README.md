@@ -9,7 +9,7 @@ Este projeto serve como **portfólio técnico** e guia reproduzível.
 ```
 zabbix-labs-portfolio/
 ├─ labs/
-│  └─ LAB-03/                # Instalação e Config do Zabbix Proxy + Agent
+│  └─ LAB-01/                # Instalação e Config do Zabbix Proxy + Agent
 │     ├─ README.md           # Passo a passo com prints e validações
 │     └─ evidence/           # Screenshots, topologia e outputs
 ├─ scripts/                  # Automação (instalação, checagens, helpers)
